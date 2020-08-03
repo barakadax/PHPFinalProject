@@ -4,7 +4,8 @@ Allowes add & delete students.
 Send Mail (as "contact us") & save information as Txt file.
 Simulate login page.
 
-*!Run from login.php!*
+If using Xampp take all files and put into your htdocs folder.
+*!Run from login.php page!.*
 
 Disclaimer:
 Beside student table you need to fill manually the other tables.
